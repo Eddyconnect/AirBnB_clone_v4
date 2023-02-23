@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Eddyconnect <edwinagana@gmail.com>
-Totybeca <emeraldtoyin@gmail.com>
+Edwin Agana <edwinagana@gmail.com>
+Toyin Fashemore <emeraldtoyin@gmail.com>
 ## License
 Public Domain. No copy write protection. 
