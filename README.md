@@ -154,8 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Totybeca(Fashemore Toyin Rebecca)
-Eddyconnect 
-
+Eddyconnect <edwinagana@gmail.com>
+Totybeca <emeraldtoyin@gmail.com>
 ## License
 Public Domain. No copy write protection. 
